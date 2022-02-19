@@ -31,7 +31,7 @@ De um lado estão as experiências do comprador e do outro estão os fatores que
 
 ### Perspectiva do consumidor Vs perspectiva do marketing:
 
-[Perspectivas](../img/PerspectivaConsumidarXMarketing.PNG)
+![Perspectivas](../img/PerspectivaConsumidarXMarketing.PNG)
 
 - Uma compra é definida 
 por avaliações;
@@ -45,7 +45,7 @@ agentes influenciadores
 que incidem na tomada 
 de decisão;
 
-[Comportamento](../img/ComportamentoConsumidarTradicional.PNG)
+![Comportamento](../img/ComportamentoConsumidarTradicional.PNG)
 
 - Durante todas estas etapas há comunicação.
 
@@ -54,13 +54,13 @@ comunicação?
 
 ### Processo de Comunicação
 
-[ProcessoDeComunicação](../img/ProcessoDeComunicação.PNG)
+![ProcessoDeComunicação](../img/ProcessoDeComunicação.PNG)
 
 ###  Comunicação -> Sinestesia.
 
 #### Visão geral do processo perceptivo.
 
-[ComunicaçãoXSinestesia](../img/ComunicaçãoXSinestesia)
+![ComunicaçãoXSinestesia](../img/ComunicaçãoXSinestesia)
 
 - E para o consumidor virtual, o que muda?
 
@@ -78,7 +78,7 @@ comunicação?
 
 ### Perfis de E-Shoppers
 
-[Perfis De E-Shoppers](../img/PerfisDeE-Shoppers.PNG)
+![Perfis De E-Shoppers](../img/PerfisDeE-Shoppers.PNG)
 
 # Socialnomics
 
@@ -114,7 +114,7 @@ Engajamento Empresarial.
 • Cada vez **mais redes pessoais** e
 cada vez **menos redes empresariais**.
 
-[Socialnomics](../img/Socialnomics.PNG)
+![Socialnomics](../img/Socialnomics.PNG)
 
 # Considerações Finais
 

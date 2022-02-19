@@ -12,7 +12,7 @@
 
 # O Tripé Mágico: Conteúdo, Relacionamento e Monitoramento
 
-[Ponto Chave Para O E-Marketing](../img/PontoChaveParaOE-Marketing.PNG)
+![Ponto Chave Para O E-Marketing](../img/PontoChaveParaOE-Marketing.PNG)
 
 ### Relacionamento
 - Um anúncio divulga e estimula a venda, mas 
@@ -59,12 +59,12 @@ plataforma digital da empresa.
 O tripé mágico é como um casamento: para durar 
 tem que ir muito além da conquista. 
 
-[Relacionamento](../img/Casamento.PNG)
+![Relacionamento](../img/Casamento.PNG)
 
 - Mas, e se a empresa não tiver fôlego para 
 sustentar o tripé mágico?
 
-[ConteúdoERelacionamento](../img/ConteúdoERelacionamento.PNG)
+![ConteúdoERelacionamento](../img/ConteúdoERelacionamento.PNG)
 
 “Então o tripé mágico ajuda a **puxar** o consumidor 
 para perto da empresa?”
@@ -79,11 +79,11 @@ para perto da empresa?”
 • O marketing puxado procura criar a ambientação 
 certa para a venda acontecer naturalmente.
 
-[PuxaOuEmpurra](../img/PuxaOuEmpurra.PNG)
+![PuxaOuEmpurra](../img/PuxaOuEmpurra.PNG)
 
 • Exemplo: caso real Nike e iTunes.
 
-[NikeItunes](../img/NikeItunes.PNG)
+![NikeItunes](../img/NikeItunes.PNG)
 
 ### A Relação entre Conteúdo e  Marketing Puxado
 
@@ -103,7 +103,7 @@ web, elas são eficientes?”
 
 ### Algumas formas tradicionais de publicidade online:
 
-[PublicidadeOnline](../img/PublicidadeOnline.PNG)
+![PublicidadeOnline](../img/PublicidadeOnline.PNG)
 
 Link patrocinado e Banner são duas das formas 
 mais comuns.
@@ -123,7 +123,7 @@ mais comuns.
 
 - É o “boca-a-boca” da internet;
 
-[MarketingViral](../img/MarketingViral.PNG)
+![MarketingViral](../img/MarketingViral.PNG)
 
 - Se espalha como um vírus, é contagioso;
 
@@ -138,9 +138,9 @@ outro, perde direcionamento e controle da ação
 
 ### Caso Real: Samsung Oscar 2014
 
-[MarketingViral2](../img/MarketingViral2.PNG)
+![MarketingViral2](../img/MarketingViral2.PNG)
 
-[MarketingViral3](../img/MarketingViral3.PNG)
+![MarketingViral3](../img/MarketingViral3.PNG)
 
 - Em **50 minutos** se tornou o tweet com mais RT’s
 da história passando a casa de 1 milhão.
@@ -148,19 +148,19 @@ da história passando a casa de 1 milhão.
 
 - Em Janeiro/2018: 
 
-[MarketingViral4](../img/MarketingViral4.PNG)
+![MarketingViral4](../img/MarketingViral4.PNG)
 
 - Ao todo ação custou US$ 20 milhões para a 
 Samsung, incluindo comercial de televisão no 
 intervalo da cerimônia;
 
-[MarketingViral5](../img/MarketingViral5.PNG)
+![MarketingViral5](../img/MarketingViral5.PNG)
 
 - Popularizou a #Selfie.
 
 - Mas, nos bastidores...
 
-[MarketingViral](../img/MarketingViral6.PNG)
+![MarketingViral](../img/MarketingViral6.PNG)
 
 # BuzzMarketing
 
@@ -178,7 +178,7 @@ tênue.
 
 ### Pepsi: Operação Sorriso (#os_pepsi)
 
-[PepsiOperaçãoSorrizo](../img/PpsiOperacaoSorrizo.PNG)
+![PepsiOperaçãoSorrizo](../img/PpsiOperacaoSorrizo.PNG)
 
 - Foto totalmente colorida 
 (250 tweets #os_pepsi) = 
@@ -213,7 +213,7 @@ Vídeo disponível em: <https://www.youtube.com/watch?v=_5a7F1x4OPg>. Duração:
 
 - Não são excludentes:
 
-[Marketing](../img/Marketing.PNG)
+![Marketing](../img/Marketing.PNG)
 
 # Considerações Finais
 
