@@ -60,7 +60,7 @@ comunicação?
 
 #### Visão geral do processo perceptivo.
 
-![ComunicaçãoXSinestesia](../img/ComunicaçãoXSinestesia)
+![ComunicaçãoXSinestesia](../img/ComunicaçãoXSinestesia.PNG)
 
 - E para o consumidor virtual, o que muda?
 
