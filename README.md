@@ -34,13 +34,29 @@ nem esta melhor que sua
 comunicação. Cada sociedade tem a
 comunicação que merece”
 
+O ser humano possui um sistema de comunicação bastante complexo e elaborado. Não apenas
+pela quantidade de palavras, estruturas gramaticais, regras de escrita ou pela quantidade enorme
+de idiomas que utiliza para compartilhar informações, mas também por toda a bagagem
+interpretativa que o ato de comunicar exige, toda reflexão, toda critica e toda argumentação
+possíveis de serem articuladas em uma mensagem.
+
 • Cultura e sociedade:
 **Teia de significados**
+
+→ **Socializar** não e apenas trocar palavras. E por isso que a Comunicação não se restringe ao
+campo lexical.
+
 
 • Algo é representado não
 apenas por sua
 descrição, mas por seu
 caráter simbólico.
+
+→ Através da **arte**, o ser humano pode comunicar a concepção que tem das coisas. Na
+verdade, uma imagem vale não apenas por seu valor descritivo, mas também por seu
+significado simbólico”.
+
+![Simbolismo](img/Simbolismo.PNG)
 
 • Já contextualizamos a Comunicação. Agora nos
 perguntamos: onde se encaixa o Marketing em
@@ -56,7 +72,36 @@ meio a isso?
 
 ![ConceitoDeMarketing](img/ConceitoDeMarketing.PNG)
 
+“um processo social e gerencial
+pelo qual indivíduos e grupos
+obtém o que necessitam e
+desejam através da criação, oferta
+e troca de produtos de valor com
+outros”
+
+# A Evolução do Marketing
+
+![EvolucaoMarketing](img/EvolucaoMarketing.PNG)
+
+Níveis de segmentação de mercado:
+
+![MarketingSegmentacao](img/MarketingSegmentacao.PNG)
+
+• Marketing ≠ Vendas ≠
+Comunicação;
+
+• A evolução do marketing está
+diretamente ligada à
+evolução do homem;
+
+• Os comportamentos
+diferentes de cada geração
+estimulam novas práticas do
+marketing;
+
 # Gerações
+
+![Gerações2](img/Gerações2.PNG)
 
 **Satisfação do Cliente** = compreender o homem
 
@@ -69,6 +114,8 @@ das últimas décadas.
 ![Geracoes](img/Geracoes.PNG)
 
 ### Baby Boomers e X
+**Baby Boomers** Entre 1945 á 1960
+**X** Entre 1690 á 1985
 
 <https://www.youtube.com/watch?v=98e6rKv9lO0>
 
@@ -90,8 +137,10 @@ individualista;
 • **Geração X** começou a misturar trabalho
 com vida pessoal.
 
+![PublicidadeAntiga](img/PublicidadeAntiga.PNG)
+
 ### Geração Y
-1900 to 1990
+1980 to 1995
 
 <https://www.youtube.com/watch?v=98e6rKv9lO0>. 
 
@@ -113,6 +162,8 @@ propósito;
 • imagem virtual extremamente relevante.
 
 ### Gerações Z e Alpha
+**Geração Z** Entre 1945 á 1960
+**Geração Alpha** Entre 2010 aos dias atuais
 
 • Há um hiato tecnológico entre as gerações;
 
@@ -126,20 +177,5 @@ propósito;
 • O **marketing** vai (e precisa!) continuar
 **evoluindo**
 
-# A Evolução do Marketing
+![PublicidadeAtual](img/PublicidadeAtual.PNG)
 
-Níveis de segmentação de mercado:
-
-![MarketingSegmentacao](img/MarketingSegmentacao.PNG)
-
-• Marketing ≠ Vendas ≠
-Comunicação;
-
-• A evolução do marketing está
-diretamente ligada à
-evolução do homem;
-
-• Os comportamentos
-diferentes de cada geração
-estimulam novas práticas do
-marketing;

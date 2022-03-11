@@ -23,11 +23,37 @@ para satisfazer **necessidades** e
 
 > (SOLOMON, 2011, p. 33)
 
+![ComportamentoConsumidor](../img/ComportamentoConsumidor.PNG)
+
 Compreender as principais teorias sobre o 
 comportamento dos consumidores é, também, 
 conhecer atalhos para trabalhar o Marketing de  uma maneira mais eficaz;
 
+O consumidor atual tem um perfil mais
+**imediatista** e **controlado**. De acordo com uma
+pesquisa da PwC, ele está menos propenso a
+realizar compras, principalmente de itens
+considerados “supérfluos”. Mas, quando o
+consumidor decide por comprar algum item, a
+mesma pesquisa indica que eles estão cada
+vez mais digitais, com crescimento de quase
+50% nas compras por celular.
+
 De um lado estão as experiências do comprador e do outro estão os fatores que o levaram a tal experiência. Ou seja, de um lado o **ponto de vista do consumidor** e do **outro o ponto de vista do marketing**.
+
+### PERFIL = CARACTERÍSTICA
+
+![StarWars](../img/StarWars.PNG)
+
+Idade média: Homens de 34 anos de idade;
+
+**Público geral: 18 e 49 anos, representando 70% das**
+**vendas.**
+
+Esse público costuma ir em estreias das grandes
+franquias, como “Os Vingadores” e “Jurassic World”, e
+gasta 2,6 vezes mais no cinema do que um espectador
+médio.
 
 ### Perspectiva do consumidor Vs perspectiva do marketing:
 
@@ -55,12 +81,14 @@ comunicação?
 ### Processo de Comunicação
 
 ![ProcessoDeComunicação](../img/ProcessoDeComunicação.PNG)
+![ProcessoDeComunicação2.PNG](../img/ProcessoDeComunicação2.PNG)
+
 
 ###  Comunicação -> Sinestesia.
 
 #### Visão geral do processo perceptivo.
 
-![ComunicaçãoXSinestesia](../img/ComunicaçãoXSinestesia)
+![ComunicaçãoXSinestesia](../img/ComunicaçãoXSinestesia.PNG)
 
 - E para o consumidor virtual, o que muda?
 
@@ -71,6 +99,8 @@ comunicação?
 - Mesmo produto, experiência distinta;
 
 - Web como apoio para compra física e vice-versa.
+
+![ConsumidorVirtual](../img/ConsumidorVirtual.PNG)
 
 # Padrões de Comportamento dos E-Shoppers
 
