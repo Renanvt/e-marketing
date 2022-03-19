@@ -4,6 +4,12 @@
 
 [Gerações](#gera%C3%A7%C3%B5es)
 
+[Baby Bommers e X](#baby-boomers-e-x)
+
+[Geração Y](#geração-y)
+
+[Geração Z e Alpha](#gerações-z-e-alpha)
+
 [A Evolução do Marketing](#a-evolu%C3%A7%C3%A3o-do-marketing)
 
 # A História por trás da Comunicação
@@ -79,6 +85,8 @@ desejam através da criação, oferta
 e troca de produtos de valor com
 outros”
 
+# [👆 TÓPICOS](#tópicos)
+
 # A Evolução do Marketing
 
 ![EvolucaoMarketing](img/EvolucaoMarketing.PNG)
@@ -99,6 +107,8 @@ diferentes de cada geração
 estimulam novas práticas do
 marketing;
 
+# [👆 TÓPICOS](#tópicos)
+
 # Gerações
 
 ![Gerações2](img/Gerações2.PNG)
@@ -113,7 +123,9 @@ das últimas décadas.
 
 ![Geracoes](img/Geracoes.PNG)
 
-### Baby Boomers e X
+# [👆 TÓPICOS](#tópicos)
+
+# Baby Boomers e X
 **Baby Boomers** Entre 1945 á 1960
 **X** Entre 1690 á 1985
 
@@ -139,7 +151,9 @@ com vida pessoal.
 
 ![PublicidadeAntiga](img/PublicidadeAntiga.PNG)
 
-### Geração Y
+# [👆 TÓPICOS](#tópicos)
+
+# Geração Y
 1980 to 1995
 
 <https://www.youtube.com/watch?v=98e6rKv9lO0>. 
@@ -161,7 +175,9 @@ propósito;
 
 • imagem virtual extremamente relevante.
 
-### Gerações Z e Alpha
+# [👆 TÓPICOS](#tópicos)
+
+# Gerações Z e Alpha
 **Geração Z** Entre 1945 á 1960
 **Geração Alpha** Entre 2010 aos dias atuais
 
@@ -179,3 +195,4 @@ propósito;
 
 ![PublicidadeAtual](img/PublicidadeAtual.PNG)
 
+# [👆 TÓPICOS](#tópicos)

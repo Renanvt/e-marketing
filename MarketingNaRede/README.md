@@ -69,6 +69,7 @@ sustentar o tripé mágico?
 “Então o tripé mágico ajuda a **puxar** o consumidor 
 para perto da empresa?”
 
+# [👆 TÓPICOS](#tópicos)
 
 # Puxa ou Empurra? - O Marketing  Puxado e o Marketing Empurrado
 
@@ -99,6 +100,8 @@ congestionamento [...]”
 - “Mas, sobre as formas tradicionais de anúncios na 
 web, elas são eficientes?”
 
+# [👆 TÓPICOS](#tópicos)
+
 # Publicidade Online
 
 ### Algumas formas tradicionais de publicidade online:
@@ -107,6 +110,8 @@ web, elas são eficientes?”
 
 Link patrocinado e Banner são duas das formas 
 mais comuns.
+
+# [👆 TÓPICOS](#tópicos)
 
 # Viral, Barulho e Guerrilha
 
@@ -215,6 +220,8 @@ Vídeo disponível em: <https://www.youtube.com/watch?v=_5a7F1x4OPg>. Duração:
 
 ![Marketing](../img/Marketing.PNG)
 
+# [👆 TÓPICOS](#tópicos)
+
 # Considerações Finais
 
 - Não podemos apenas estar 
@@ -228,3 +235,5 @@ deixar os clientes satisfeitos;
 
 - Marketing Viral, BuzzMarketing e Guerrilha podem 
 ser trabalhados em conjunto.
+
+# [👆 TÓPICOS](#tópicos)
