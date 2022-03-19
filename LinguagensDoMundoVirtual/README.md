@@ -189,8 +189,8 @@ férias!” (utilizar hashtag para dar destaque a uma palavra que não se contex
 
     - Sim. Tudo bem.
 
-• Agora, veja este mesmo
-diálogo desta forma:
+• Agora, veja este mesmo diálogo desta forma:
+
     - Oi, bom dia! Que saudades de você! Você dormiu
     bem? Está tudo bem?
 
